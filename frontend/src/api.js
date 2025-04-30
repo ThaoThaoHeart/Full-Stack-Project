@@ -2,7 +2,7 @@
 import axios from "axios";
 import { ACCESS_TOKEN } from "./constants";
 
-const apiUrl = "/choreo-apis/full-stack-project/backend/v1";
+const apiUrl = "f9e0c8bb-a288-400a-a481-8385181b3b37-dev.e1-us-east-azure.choreoapis.dev/full-stack-project/backend/v1";
 
 const api = axios.create({
     // import anything in the .env file
